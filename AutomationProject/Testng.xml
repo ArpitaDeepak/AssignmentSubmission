@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AmazonAutomationTestSuite">
+<test name="BasePageFunctionalityTest">
+		<classes>
+			<class name="com.amazon.AmazonAutomation.BasePageFunctionalityTest" />
+		</classes>
+	</test>
+	<test name="HomePageTest">
+		<classes>
+			<class name="com.amazon.AmazonAutomation.HomePageTest" />
+		</classes>
+	</test>
+	<test name="ProductPageTest">
+		<classes>
+			<class name="com.amazon.AmazonAutomation.ProductPageTest" />
+		</classes>
+	</test>
+</suite>
